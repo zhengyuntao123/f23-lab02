@@ -13,4 +13,4 @@ function newSquare(sideLen: number): Square {
     }
 }
 
-export { Square,newSquare }
+export { newSquare }

@@ -14,7 +14,7 @@ function newCircle(radius: number): Circle {
     }
 }
 
-export { Circle,newCircle }
+export { newCircle }
 
 
 
